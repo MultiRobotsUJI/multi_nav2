@@ -12,6 +12,8 @@ sudo apt-get install ros-foxy-nav2-map-server
 
 we used the launch file from this [site](https://answers.ros.org/question/398095/ros2-nav2-map_server-problems-loading-map-with-nav2_map_server/)
 
+yaml files are in param folder, map.png images are in maps folder.
+
 ```
 ros2 launch multi_nav2 make_map.launch.py
 ```
