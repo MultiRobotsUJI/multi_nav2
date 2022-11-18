@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bass/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/bass/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/bass/ros2_ws/install/choirbot_interfaces/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/bass/ros2_ws/src/choirbot_turtle3/include/**",
+        "/home/bass/ros2_ws/src/multi_nav2/include/**",
+        "/home/bass/ros2_ws/src/my_cpp_py_pkg/include/**",
+        "/home/bass/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/bass/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

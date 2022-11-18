@@ -1,0 +1,3 @@
+map_server:
+    ros__parameters:
+        yaml_filename: "/home/bass/ros2_ws/src/multi_nav2/param/map.yaml"
