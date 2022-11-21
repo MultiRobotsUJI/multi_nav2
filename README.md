@@ -1,4 +1,4 @@
-# multi_nav
+# multi_nav2
 
 Navigation for multi robots using Nav2 ros package.
 
