@@ -1,5 +1,5 @@
 # image: "$(find multi_nav2)/maps/uji_lib.png"
-image: ~/multi_ws/src/multi_nav2/maps/uji_lib.png
+image: multi_lab.png
 resolution: 0.1
 origin: [2.0, 3.0, 1.0]
 negate: 0
